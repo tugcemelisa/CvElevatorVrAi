@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 13667cb98c4098641b8742b16d227f54
+timeCreated: 1517235444
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Locomotion/UxrTeleportTargetMaterialID.cs
+  uploadId: 637431

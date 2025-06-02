@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a26af86e3fe64c0fbc1ce1f0fb47d9cd
+timeCreated: 1643734079
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/UI/UnityInputModule/Controls/UxrToggleControlInput.TextColorChange.cs
+  uploadId: 637431

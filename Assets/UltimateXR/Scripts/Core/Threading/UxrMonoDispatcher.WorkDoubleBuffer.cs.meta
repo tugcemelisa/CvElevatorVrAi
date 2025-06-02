@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 828c7fd865a74fbf93cc1eb280b9fdf7
+timeCreated: 1624656362
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Core/Threading/UxrMonoDispatcher.WorkDoubleBuffer.cs
+  uploadId: 637431

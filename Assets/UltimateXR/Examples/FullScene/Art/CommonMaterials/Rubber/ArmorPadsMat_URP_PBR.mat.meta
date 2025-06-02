@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 245921ca5767fb14faee21212c5f77ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/CommonMaterials/Rubber/ArmorPadsMat_URP_PBR.mat
+  uploadId: 637431

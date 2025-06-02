@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 890cefb167d743ebb279587cd1fae1de
+timeCreated: 1643744366
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Manipulation/HandPoses/UxrFingerAngleType.cs
+  uploadId: 637431

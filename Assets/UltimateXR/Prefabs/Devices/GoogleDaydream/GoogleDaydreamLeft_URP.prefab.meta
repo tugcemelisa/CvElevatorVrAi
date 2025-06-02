@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65a9f2435800c6f4da0f4a7a86e54aaa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/GoogleDaydream/GoogleDaydreamLeft_URP.prefab
+  uploadId: 637431

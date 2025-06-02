@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6bf3239359e64939a0569b1e7239fd17
+timeCreated: 1643287251
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Manipulation/UxrGrabProximityMode.cs
+  uploadId: 637431

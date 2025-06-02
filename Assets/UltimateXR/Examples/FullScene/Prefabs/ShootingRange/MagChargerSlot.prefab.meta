@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13d8e0dc7a0a046468ffad1453df87a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Prefabs/ShootingRange/MagChargerSlot.prefab
+  uploadId: 637431

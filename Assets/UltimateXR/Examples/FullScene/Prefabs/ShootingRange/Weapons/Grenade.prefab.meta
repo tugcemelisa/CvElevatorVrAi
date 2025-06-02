@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c563684d5177f9347aa42336107d430f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Prefabs/ShootingRange/Weapons/Grenade.prefab
+  uploadId: 637431

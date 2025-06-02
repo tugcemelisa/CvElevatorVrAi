@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: be627ee24a15ef8428435f6f11ddf85b
+timeCreated: 1531384206
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/Interactive/Weapons/Machinegun/FX/MachinegunMuzzleFlash2Mat.mat
+  uploadId: 637431

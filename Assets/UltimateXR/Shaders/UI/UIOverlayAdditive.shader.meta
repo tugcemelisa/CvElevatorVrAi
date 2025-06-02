@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6e52408980142f44e98c81fbc46c467d
+timeCreated: 1534494822
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Shaders/UI/UIOverlayAdditive.shader
+  uploadId: 637431

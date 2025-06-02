@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 31f1e574331515942972937a24c6887a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/UI/Hiscores/HiscoresPanelEntries.prefab
+  uploadId: 637431

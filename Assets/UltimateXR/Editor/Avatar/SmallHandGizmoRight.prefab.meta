@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a1c1014903295a408b755f1fed2863e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Avatar/SmallHandGizmoRight.prefab
+  uploadId: 637431

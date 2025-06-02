@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1bcbbdc13bf97b4680f5fd80544212f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/HtcViveCosmos/HtcViveCosmosRight_URP.prefab
+  uploadId: 637431

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69e22c8e738ecdc47a07a18994425fcd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Prefabs/Rooms/Laboratory.prefab
+  uploadId: 637431

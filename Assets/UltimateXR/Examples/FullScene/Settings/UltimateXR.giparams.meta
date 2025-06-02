@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4def50654c7eb274dad3a6a4e886b885
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 111300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Settings/UltimateXR.giparams
+  uploadId: 637431

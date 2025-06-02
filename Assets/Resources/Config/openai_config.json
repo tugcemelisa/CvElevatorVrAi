@@ -1,0 +1,5 @@
+{
+    "apiKey": "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",
+    "apiUrl": "https://api.openai.com/v1/chat/completions",
+    "model": "gpt-4"
+}

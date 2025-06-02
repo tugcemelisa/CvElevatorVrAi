@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7c39828446955c4eb062c0ef1f5eb71
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Avatars/BigHandsAvatar_BRP.prefab
+  uploadId: 637431

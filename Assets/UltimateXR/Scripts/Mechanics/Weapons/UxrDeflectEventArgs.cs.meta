@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 12118d803c3748b4b907fa4778d35e9e
+timeCreated: 1642860517
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Mechanics/Weapons/UxrDeflectEventArgs.cs
+  uploadId: 637431

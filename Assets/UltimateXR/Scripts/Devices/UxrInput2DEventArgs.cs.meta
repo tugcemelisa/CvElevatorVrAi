@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 887f4c46135a4077b7cd56db0a7aadbc
+timeCreated: 1623761101
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Devices/UxrInput2DEventArgs.cs
+  uploadId: 637431

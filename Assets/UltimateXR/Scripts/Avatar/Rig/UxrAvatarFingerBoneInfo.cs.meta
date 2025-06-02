@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 017ad516096f4f4d83da5739003991c1
+timeCreated: 1665409719
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Avatar/Rig/UxrAvatarFingerBoneInfo.cs
+  uploadId: 637431

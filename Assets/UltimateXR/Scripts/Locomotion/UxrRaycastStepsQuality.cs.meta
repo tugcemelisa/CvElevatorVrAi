@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5da228536c8747ea99775f487aeeeaa5
+timeCreated: 1643727431
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Locomotion/UxrRaycastStepsQuality.cs
+  uploadId: 637431

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fb5ef83a52cd8c438d7a0900d315041
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/UI/LaserPointers/StandardLaserPointerRight.prefab
+  uploadId: 637431

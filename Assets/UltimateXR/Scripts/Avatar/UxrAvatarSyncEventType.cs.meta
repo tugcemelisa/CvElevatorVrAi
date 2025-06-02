@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f0c7b67af4f5fe0429c1be9fc3b251ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Avatar/UxrAvatarSyncEventType.cs
+  uploadId: 637431

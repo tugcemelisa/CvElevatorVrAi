@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c260c52bb1b13764d9ad6e5e22b1eff9
+timeCreated: 1517088497
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/UI/DebugInput/DebugInputPanel.prefab
+  uploadId: 637431

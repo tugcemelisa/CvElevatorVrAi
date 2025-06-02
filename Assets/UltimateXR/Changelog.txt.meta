@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f389c08f5baefa04c9c1763f8a8514f4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Changelog.txt
+  uploadId: 637431

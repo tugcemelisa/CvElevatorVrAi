@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4001752301e5ec64bba14436977a8eb5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Internal/Hands/IK/BigIKHandLeft.prefab
+  uploadId: 637431

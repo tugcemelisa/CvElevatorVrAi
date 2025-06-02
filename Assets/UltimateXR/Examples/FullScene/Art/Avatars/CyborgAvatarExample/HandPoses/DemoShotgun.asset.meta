@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5ba2e3692dcea243a359c51f68c63da
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/Avatars/CyborgAvatarExample/HandPoses/DemoShotgun.asset
+  uploadId: 637431

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32c569404f96e0f4395971952679acb7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/CommonMaterials/Rubber/FloorAntiSkidMat_URP_PBR.mat
+  uploadId: 637431

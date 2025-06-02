@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: edbdd5bdbf4a4ad4c83346bc46a3d6ab
+timeCreated: 1516622924
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Sdks/UxrSdkLocatorSteamVR.cs
+  uploadId: 637431

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 694daddecc871624d9af4940e2c4edfa
+timeCreated: 1511875957
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Manipulation/UxrGrabbableObjectAnchorEditor.cs
+  uploadId: 637431

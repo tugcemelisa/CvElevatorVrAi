@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4b308562c7bd4762ba25e88f5f3a5aa4
+timeCreated: 1623420066
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Devices/Integrations/SteamVR/UxrSteamVRConstants.cs
+  uploadId: 637431

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1657dc842d6e4de4a6c3182e6f4efa04
+timeCreated: 1643744329
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Manipulation/HandPoses/UxrHandPoseType.cs
+  uploadId: 637431

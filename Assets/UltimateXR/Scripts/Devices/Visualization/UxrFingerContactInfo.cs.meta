@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fa0c647e60bf4a8ebbe73fdc73005d85
+timeCreated: 1643102273
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Devices/Visualization/UxrFingerContactInfo.cs
+  uploadId: 637431

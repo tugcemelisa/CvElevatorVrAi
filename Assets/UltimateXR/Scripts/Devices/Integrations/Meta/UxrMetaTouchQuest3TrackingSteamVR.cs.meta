@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 07ea441b9add1fd4fb72713dd14725cb
+timeCreated: 1624443263
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Devices/Integrations/Meta/UxrMetaTouchQuest3TrackingSteamVR.cs
+  uploadId: 637431

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71b52cd2a5d72204eb92cf0cd5d75b0a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Settings/UltimateXRLightingSettings.lighting
+  uploadId: 637431

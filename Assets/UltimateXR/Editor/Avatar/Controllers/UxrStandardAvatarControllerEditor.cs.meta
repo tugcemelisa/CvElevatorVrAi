@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6b019ea387b41a1438953b9ff201213b
+timeCreated: 1501659089
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Avatar/Controllers/UxrStandardAvatarControllerEditor.cs
+  uploadId: 637431

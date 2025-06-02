@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 255791cacd2861344a0d262739b4d56c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/MetaTouchQuest3/MetaTouchQuest3Left_BRP.prefab
+  uploadId: 637431

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee3db0425949b20499473cf2f8d18c7d
+timeCreated: 1493198656
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Resources/Shaders/UnlitTransparentNoDepthTest.shader
+  uploadId: 637431

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7da01d438dc385a4abcf4e565f362f14
+timeCreated: 1492442075
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Shaders/FX/MagnifyingGlass_URP.shader
+  uploadId: 637431

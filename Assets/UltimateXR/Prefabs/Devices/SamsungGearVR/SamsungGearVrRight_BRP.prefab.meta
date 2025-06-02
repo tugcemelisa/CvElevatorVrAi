@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17779495a041db9498a8e3bf25176a33
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/SamsungGearVR/SamsungGearVrRight_BRP.prefab
+  uploadId: 637431

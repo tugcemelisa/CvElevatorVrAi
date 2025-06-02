@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 543e6a1c3d51e984f8ef22cd13008d57
+timeCreated: 1620807376
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/Unity/Audio/AudioClipExt.cs
+  uploadId: 637431

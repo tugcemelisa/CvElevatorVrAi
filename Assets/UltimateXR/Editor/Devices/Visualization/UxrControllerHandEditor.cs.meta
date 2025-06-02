@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf72a82057d7772449297ebf6cabe376
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Devices/Visualization/UxrControllerHandEditor.cs
+  uploadId: 637431

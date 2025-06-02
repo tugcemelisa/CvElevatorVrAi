@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 662cd00258dfdef4ea3985aaaa02a19a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Shaders/FX/Scroll.shader
+  uploadId: 637431

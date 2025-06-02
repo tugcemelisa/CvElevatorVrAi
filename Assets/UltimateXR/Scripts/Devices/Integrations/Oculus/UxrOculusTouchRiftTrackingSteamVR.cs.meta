@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d9f2ab5b48994c7b933178d3fea37f60
+timeCreated: 1624443263
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Devices/Integrations/Oculus/UxrOculusTouchRiftTrackingSteamVR.cs
+  uploadId: 637431

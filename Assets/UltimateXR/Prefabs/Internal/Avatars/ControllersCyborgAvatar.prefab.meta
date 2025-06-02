@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4eff023a7e941cd4cb62dd10b4b5469e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Internal/Avatars/ControllersCyborgAvatar.prefab
+  uploadId: 637431

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: edc5622f479147cd8ef96832732a9ff0
+timeCreated: 1644846685
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Animation/GameObjects/UxrObjectFade.ObjectEntry.cs
+  uploadId: 637431

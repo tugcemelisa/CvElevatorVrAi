@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eea592ce61d97f9439dabfa8bc2b90fa
+timeCreated: 1517234925
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Teleport/Targets/TeleportTargetLocation03.prefab
+  uploadId: 637431

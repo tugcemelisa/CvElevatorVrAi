@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8bc7c0c8f6bf2e4badd58f768290c7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Audio/UxrAudioBoxVolume.cs
+  uploadId: 637431

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3f5fcf56a0d50d448ad5c31cd863089
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/CommonMaterials/MetalPainted/MetalPaintedMatBlackBack_URP_Baked.mat
+  uploadId: 637431

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0694c9893d18f394c87b81fcf790fd3c
+timeCreated: 1522854548
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/CameraUtils/UxrCameraDepthEnable.cs
+  uploadId: 637431

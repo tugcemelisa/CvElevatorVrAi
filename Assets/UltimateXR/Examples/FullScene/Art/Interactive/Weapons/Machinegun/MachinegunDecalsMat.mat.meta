@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de7b1afef6b237947b0c3a926456706e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/Interactive/Weapons/Machinegun/MachinegunDecalsMat.mat
+  uploadId: 637431

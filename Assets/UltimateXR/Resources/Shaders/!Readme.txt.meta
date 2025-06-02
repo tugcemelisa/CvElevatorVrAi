@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1cd08e7ff3d278242bc6cf1816f24af0
+timeCreated: 1531983039
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Resources/Shaders/!Readme.txt
+  uploadId: 637431

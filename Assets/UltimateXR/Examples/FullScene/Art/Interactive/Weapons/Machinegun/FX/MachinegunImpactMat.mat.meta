@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e864e0c6e41afc943828335d2e859d38
+timeCreated: 1532680863
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/Interactive/Weapons/Machinegun/FX/MachinegunImpactMat.mat
+  uploadId: 637431

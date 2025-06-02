@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41e31dcf4d3e5b9478dde3ae9fa44c53
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Settings/URP/URP-Performant-Renderer.asset
+  uploadId: 637431

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7e046277724ea3498ef6116270ce964
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Manipulation/HandPoses/HandPosePresets/Perfect.asset
+  uploadId: 637431

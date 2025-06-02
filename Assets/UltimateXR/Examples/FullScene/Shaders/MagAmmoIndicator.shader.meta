@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bae6daaa8757b35468ea9e270cd7dd99
+timeCreated: 1531989450
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Shaders/MagAmmoIndicator.shader
+  uploadId: 637431

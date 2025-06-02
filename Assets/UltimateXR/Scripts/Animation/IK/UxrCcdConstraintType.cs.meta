@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 46ce404cf07f4b73a03b51e6675b8766
+timeCreated: 1643125910
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Animation/IK/UxrCcdConstraintType.cs
+  uploadId: 637431

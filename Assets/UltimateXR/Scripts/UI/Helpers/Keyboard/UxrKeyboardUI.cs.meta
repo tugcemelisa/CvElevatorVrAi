@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 85e65ed8ff0832245869f1b6941e9eb1
+timeCreated: 1511538177
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/UI/Helpers/Keyboard/UxrKeyboardUI.cs
+  uploadId: 637431

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 288a93c0145c91e42b6c0eaf63f1705c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/HtcViveFocus3/HtcViveFocus3Left_URP.prefab
+  uploadId: 637431

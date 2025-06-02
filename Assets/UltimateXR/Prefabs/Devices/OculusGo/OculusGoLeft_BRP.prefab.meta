@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a92ac802bd0b4f4a89fe65a378d6ef7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/OculusGo/OculusGoLeft_BRP.prefab
+  uploadId: 637431

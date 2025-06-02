@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 141fda8639e048941a0a85e23aff672c
+timeCreated: 1531311594
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/Interactive/Weapons/Shotgun/FX/ShotgunProjectileMat.mat
+  uploadId: 637431

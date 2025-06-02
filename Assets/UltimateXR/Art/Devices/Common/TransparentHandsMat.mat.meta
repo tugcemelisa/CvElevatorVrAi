@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e5fb97c285a931c4ea5e7decc2f6ee9a
+timeCreated: 1524518763
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Devices/Common/TransparentHandsMat.mat
+  uploadId: 637431

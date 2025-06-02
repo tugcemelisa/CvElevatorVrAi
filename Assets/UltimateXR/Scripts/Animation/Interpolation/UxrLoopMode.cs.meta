@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 69c8ab420cd7412f874ff3ad7346f6f0
+timeCreated: 1642849559
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Animation/Interpolation/UxrLoopMode.cs
+  uploadId: 637431

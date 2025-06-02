@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c0bd1e8805fb4c841bf65b2e3ceacb4d
+timeCreated: 1624962547
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/System/Math/FloatExt.cs
+  uploadId: 637431

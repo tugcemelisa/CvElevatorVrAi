@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 02fc4e983a7341fcb56deb4aeb0d3261
+timeCreated: 1642855038
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Mechanics/Weapons/UxrNonDamagingImpactEventArgs.cs
+  uploadId: 637431

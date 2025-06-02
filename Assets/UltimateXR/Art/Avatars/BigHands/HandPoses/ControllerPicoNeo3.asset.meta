@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: befa0b849d2a7264ca4bf79253fd1ecf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Avatars/BigHands/HandPoses/ControllerPicoNeo3.asset
+  uploadId: 637431

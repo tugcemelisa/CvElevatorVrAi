@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c0a0e703ba65534b93b0133a97de160
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/HtcVive/HtcViveLeft_BRP.prefab
+  uploadId: 637431

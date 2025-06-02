@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a5246b8e9a3ff94d8decc677270ca2b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/PicoNeo3/PicoNeo3Left_URP.prefab
+  uploadId: 637431

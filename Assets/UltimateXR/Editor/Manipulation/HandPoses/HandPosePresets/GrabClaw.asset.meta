@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc18d39ca0fe9054389d55f644e9281d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Manipulation/HandPoses/HandPosePresets/GrabClaw.asset
+  uploadId: 637431

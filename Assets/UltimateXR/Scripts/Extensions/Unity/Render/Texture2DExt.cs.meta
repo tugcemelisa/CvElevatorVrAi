@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c80a81688bca2614891cdf6dc8fe4136
+timeCreated: 1620807232
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/Unity/Render/Texture2DExt.cs
+  uploadId: 637431

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c2c62d93e9b64c30af3654c58a2e2f10
+timeCreated: 1624962547
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/System/Math/IntExt.cs
+  uploadId: 637431

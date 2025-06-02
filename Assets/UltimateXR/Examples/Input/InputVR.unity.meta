@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22febf652712f0c42bac0bc1a98eee2a
+timeCreated: 1503569258
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/Input/InputVR.unity
+  uploadId: 637431

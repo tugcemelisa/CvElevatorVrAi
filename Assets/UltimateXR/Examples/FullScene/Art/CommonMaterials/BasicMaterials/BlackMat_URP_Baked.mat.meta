@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5df7216d22ccb546af9744057873514
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/CommonMaterials/BasicMaterials/BlackMat_URP_Baked.mat
+  uploadId: 637431

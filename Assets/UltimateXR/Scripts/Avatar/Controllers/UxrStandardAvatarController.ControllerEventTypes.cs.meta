@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 94f8b332033d4435b104cf1d25c38dac
+timeCreated: 1645458547
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Avatar/Controllers/UxrStandardAvatarController.ControllerEventTypes.cs
+  uploadId: 637431

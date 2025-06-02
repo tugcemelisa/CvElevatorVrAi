@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16d5a85387d1508488672bb0b44e34d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/WindowsMixedReality/WindowsMixedRealityRight_URP.prefab
+  uploadId: 637431

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 701f560eda417d147b82d2d5a823a26a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/Avatars/BigHandsAvatarExample/HandPoses/DemoMachinegun.asset
+  uploadId: 637431

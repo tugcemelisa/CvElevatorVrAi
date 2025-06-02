@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 133920fc89c99f7418a31b2b9f25c88d
+timeCreated: 1620807545
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/Unity/SceneManagerExt.cs
+  uploadId: 637431

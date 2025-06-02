@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6f69c5ccb17b9474c88c59e005eb072a
+timeCreated: 1621500585
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/Unity/Render/Color32Ext.cs
+  uploadId: 637431

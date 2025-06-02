@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9a81fd223199e5b41af2efbaaaa8e2ef
+timeCreated: 1534494822
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Shaders/UI/UIOverlayAlphaBlend.shader
+  uploadId: 637431

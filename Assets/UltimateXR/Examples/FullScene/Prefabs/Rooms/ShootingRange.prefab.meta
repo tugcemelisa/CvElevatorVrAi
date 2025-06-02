@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e63ad7f90834384dab066d8da8cabad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Prefabs/Rooms/ShootingRange.prefab
+  uploadId: 637431

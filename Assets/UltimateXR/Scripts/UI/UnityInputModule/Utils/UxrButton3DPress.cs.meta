@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 11f37e36dfbb79d448e633e26928b45b
+timeCreated: 1531470375
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/UI/UnityInputModule/Utils/UxrButton3DPress.cs
+  uploadId: 637431

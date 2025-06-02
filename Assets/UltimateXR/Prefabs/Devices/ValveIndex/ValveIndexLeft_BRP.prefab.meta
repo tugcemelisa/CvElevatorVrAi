@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4d348792d198ad47922017b5a56f9b5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/ValveIndex/ValveIndexLeft_BRP.prefab
+  uploadId: 637431

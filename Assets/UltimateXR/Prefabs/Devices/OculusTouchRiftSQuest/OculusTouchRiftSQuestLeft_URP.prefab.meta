@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69263daf76bbb9241bdc86c6eba3f042
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/OculusTouchRiftSQuest/OculusTouchRiftSQuestLeft_URP.prefab
+  uploadId: 637431

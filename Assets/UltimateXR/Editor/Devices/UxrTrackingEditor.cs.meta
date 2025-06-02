@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3e07525b06fd32e49bf5775a629f5b7e
+timeCreated: 1521213978
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Devices/UxrTrackingEditor.cs
+  uploadId: 637431

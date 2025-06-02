@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8f9dc40c111844888f796a51ac2e7e82
+timeCreated: 1643749470
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Manipulation/HandPoses/UxrFingerNodeDescriptor.cs
+  uploadId: 637431

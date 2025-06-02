@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 156df0def5d48a3489e870c7fb9a1243
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Devices/DebugPanels/UxrDebugInput2dUI.cs
+  uploadId: 637431

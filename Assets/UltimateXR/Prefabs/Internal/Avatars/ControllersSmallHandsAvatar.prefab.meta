@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e9a0fe8e27014b45ae42a7f35f37d33
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Internal/Avatars/ControllersSmallHandsAvatar.prefab
+  uploadId: 637431

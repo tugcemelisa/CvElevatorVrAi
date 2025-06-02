@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b1f682fbe8d6acb44a8f65de45d892b2
+timeCreated: 1516622924
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Sdks/UxrSdkLocatorWindowsMR.cs
+  uploadId: 637431

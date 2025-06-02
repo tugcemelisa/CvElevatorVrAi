@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d15562eeae9f2d4bb3babac7ddcf7e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/Environment/Modules/Doors/DoorMat_URP_PBR.mat
+  uploadId: 637431

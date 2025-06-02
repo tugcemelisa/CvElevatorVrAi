@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8d25f62cc89144e0811a69ceae042e06
+timeCreated: 1655561113
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Scripts/Lab/BatteryAnchor.cs
+  uploadId: 637431

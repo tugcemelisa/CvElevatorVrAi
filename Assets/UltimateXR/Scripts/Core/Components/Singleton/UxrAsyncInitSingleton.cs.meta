@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 512ee11458e34e01ad20c7f127ee1b78
+timeCreated: 1611582011
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Core/Components/Singleton/UxrAsyncInitSingleton.cs
+  uploadId: 637431

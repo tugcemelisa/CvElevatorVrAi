@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 13e10b2b122c8014ca43f12f5be3d59a
+timeCreated: 1519759847
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/CameraUtils/UxrCameraWallFade.cs
+  uploadId: 637431

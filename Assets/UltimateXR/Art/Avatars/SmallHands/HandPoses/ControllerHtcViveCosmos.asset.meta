@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2886dbc48c598d44592e65b8f6e0b4b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Avatars/SmallHands/HandPoses/ControllerHtcViveCosmos.asset
+  uploadId: 637431

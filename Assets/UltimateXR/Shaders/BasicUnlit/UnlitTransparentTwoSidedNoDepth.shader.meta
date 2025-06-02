@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11d2f1b3cd6a7a04ba426732aa642dd7
+timeCreated: 1493198656
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Shaders/BasicUnlit/UnlitTransparentTwoSidedNoDepth.shader
+  uploadId: 637431

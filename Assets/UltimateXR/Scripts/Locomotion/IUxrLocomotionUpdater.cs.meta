@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c579b7d7e9ef0514ea3cae3fc3debd1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Locomotion/IUxrLocomotionUpdater.cs
+  uploadId: 637431

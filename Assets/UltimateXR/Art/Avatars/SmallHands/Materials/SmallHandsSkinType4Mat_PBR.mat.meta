@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d9bde78c94fe6d42a8a2c9d4a3a6847
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Avatars/SmallHands/Materials/SmallHandsSkinType4Mat_PBR.mat
+  uploadId: 637431

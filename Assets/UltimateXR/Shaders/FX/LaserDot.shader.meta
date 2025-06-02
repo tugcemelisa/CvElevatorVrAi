@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4be7181cc8c60c43b5d27099bc6936b
+timeCreated: 1493198656
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Shaders/FX/LaserDot.shader
+  uploadId: 637431

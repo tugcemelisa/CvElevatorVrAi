@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 48ad91b045414ebd8dcf0c5c1b357f32
+timeCreated: 1650792910
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Core/StateSync/UxrStateSyncEventArgs.cs
+  uploadId: 637431

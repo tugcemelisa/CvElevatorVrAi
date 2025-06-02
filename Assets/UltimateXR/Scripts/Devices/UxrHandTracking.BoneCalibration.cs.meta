@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3ad48c422a774f17a2356484a9df85e1
+timeCreated: 1654788686
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Devices/UxrHandTracking.BoneCalibration.cs
+  uploadId: 637431

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea120ce8edf3ea147919eff604dd8f38
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Resources/Singletons/UxrCompass.prefab
+  uploadId: 637431

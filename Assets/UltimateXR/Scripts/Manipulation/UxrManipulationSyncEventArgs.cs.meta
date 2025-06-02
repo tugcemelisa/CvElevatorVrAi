@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 434b6e3c7365473888620bebcbf0c751
+timeCreated: 1650790653
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Manipulation/UxrManipulationSyncEventArgs.cs
+  uploadId: 637431

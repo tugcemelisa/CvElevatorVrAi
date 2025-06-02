@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 782b2beb43ede634c9ac4404643f61e4
+timeCreated: 1523621693
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Locomotion/UxrLocomotion.cs
+  uploadId: 637431

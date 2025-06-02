@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 866daa36db64e594ba452f8695f740e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Teleport/Targets/Round/Materials/RoundMat_URP_PBR.mat
+  uploadId: 637431

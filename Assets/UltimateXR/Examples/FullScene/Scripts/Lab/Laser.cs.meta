@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 82bab9d2f1f530649af83fd846d679e9
+timeCreated: 1530622409
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Scripts/Lab/Laser.cs
+  uploadId: 637431

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb46143d735015744aa0ed5a39f96b1c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/MagicLeap2/MagicLeap2Left_BRP.prefab
+  uploadId: 637431

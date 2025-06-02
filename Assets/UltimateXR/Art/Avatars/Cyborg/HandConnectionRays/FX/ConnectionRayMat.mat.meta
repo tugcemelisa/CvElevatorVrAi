@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7fa51c4e6483804db6e3febb6b4c558
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Avatars/Cyborg/HandConnectionRays/FX/ConnectionRayMat.mat
+  uploadId: 637431

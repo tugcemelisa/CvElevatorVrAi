@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d14fdf906cfe4cc4580581d51dbc2ec5
+timeCreated: 1517230818
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Teleport/Targets/TeleportTargetCyber01_URP_PBR.prefab
+  uploadId: 637431

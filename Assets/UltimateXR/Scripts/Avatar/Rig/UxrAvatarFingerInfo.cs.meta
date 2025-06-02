@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 78a4d19d90f3ad74ba6d15bad66d317e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Avatar/Rig/UxrAvatarFingerInfo.cs
+  uploadId: 637431

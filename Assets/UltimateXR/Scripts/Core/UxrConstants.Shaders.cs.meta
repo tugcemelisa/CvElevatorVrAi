@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1a69801597eb49ea84d9559039a6e911
+timeCreated: 1644505872
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Core/UxrConstants.Shaders.cs
+  uploadId: 637431

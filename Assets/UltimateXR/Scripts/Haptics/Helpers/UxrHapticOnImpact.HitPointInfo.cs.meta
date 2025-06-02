@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 881c017d321643a3b052cb19d9ccc32f
+timeCreated: 1643734436
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Haptics/Helpers/UxrHapticOnImpact.HitPointInfo.cs
+  uploadId: 637431

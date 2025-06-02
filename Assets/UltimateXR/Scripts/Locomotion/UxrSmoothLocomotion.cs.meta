@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c2b87341763ed1447b56652023d58f90
+timeCreated: 1523621693
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Locomotion/UxrSmoothLocomotion.cs
+  uploadId: 637431

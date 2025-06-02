@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52f08a170795a3d42a046011497753fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Settings/URP/URP-HighFidelity.asset
+  uploadId: 637431

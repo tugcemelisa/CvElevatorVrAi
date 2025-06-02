@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d151491a5e3e4e9fb8f7faff1e776f2f
+timeCreated: 1621256057
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Core/Threading/TaskControllers/UxrTaskController.cs
+  uploadId: 637431

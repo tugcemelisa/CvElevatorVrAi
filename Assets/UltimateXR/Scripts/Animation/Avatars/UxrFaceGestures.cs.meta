@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c4580b2065b1d39428ae4bb5e6840419
+timeCreated: 1549387631
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Animation/Avatars/UxrFaceGestures.cs
+  uploadId: 637431

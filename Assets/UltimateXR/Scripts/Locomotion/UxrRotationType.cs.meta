@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 82c3bae5341f4345bf67aa6aff8d7c81
+timeCreated: 1643727446
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Locomotion/UxrRotationType.cs
+  uploadId: 637431

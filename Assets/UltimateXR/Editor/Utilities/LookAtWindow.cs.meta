@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c9d5baecadf7402fa7b9ea82b71ec6fe
+timeCreated: 1628846735
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Editor/Utilities/LookAtWindow.cs
+  uploadId: 637431

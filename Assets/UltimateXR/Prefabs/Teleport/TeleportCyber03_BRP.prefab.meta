@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 194f650b61b290f429d146ac4e5cb3b7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Teleport/TeleportCyber03_BRP.prefab
+  uploadId: 637431

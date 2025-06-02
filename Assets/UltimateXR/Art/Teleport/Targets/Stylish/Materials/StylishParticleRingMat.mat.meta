@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c70a47506c1ad0e41bb25b487c942608
+timeCreated: 1516178973
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Teleport/Targets/Stylish/Materials/StylishParticleRingMat.mat
+  uploadId: 637431

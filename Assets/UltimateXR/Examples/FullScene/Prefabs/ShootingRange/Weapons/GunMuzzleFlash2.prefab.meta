@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 94d8266232e4ed942849e8decb991855
+timeCreated: 1532595834
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Prefabs/ShootingRange/Weapons/GunMuzzleFlash2.prefab
+  uploadId: 637431

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 89bc39af06e56fd448af1d651e3406ff
+timeCreated: 1519632737
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Animation/Interpolation/UxrInterpolator.cs
+  uploadId: 637431

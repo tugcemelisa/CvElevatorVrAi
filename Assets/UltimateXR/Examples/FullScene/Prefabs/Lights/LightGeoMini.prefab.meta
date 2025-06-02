@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38791455aca97ae428a8b8e035434315
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Prefabs/Lights/LightGeoMini.prefab
+  uploadId: 637431

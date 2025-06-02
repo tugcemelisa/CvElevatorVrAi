@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7db9604eb015edc48a68b5d26c5e9dc6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/CommonMaterials/Light/CeilingLightMat_URP_PBR.mat
+  uploadId: 637431

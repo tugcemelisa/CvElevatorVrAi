@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 307a9f71f2924545b1d2e78ce3134a4f
+timeCreated: 1643646926
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Manipulation/UxrGrabManager.RuntimeGrabInfo.cs
+  uploadId: 637431

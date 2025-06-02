@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e468af470a9a84469c1fafd8a98d3aa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/OculusTouchRift/OculusTouchRiftLeft_URP.prefab
+  uploadId: 637431

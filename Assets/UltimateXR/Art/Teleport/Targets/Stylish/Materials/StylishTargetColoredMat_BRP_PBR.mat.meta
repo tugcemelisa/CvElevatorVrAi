@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d95405ca01c225544b0480dc7c1c4cca
+timeCreated: 1516105635
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Teleport/Targets/Stylish/Materials/StylishTargetColoredMat_BRP_PBR.mat
+  uploadId: 637431

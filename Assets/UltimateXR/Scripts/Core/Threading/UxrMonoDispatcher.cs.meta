@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2eb59326e7404032b2825f4e4a993981
+timeCreated: 1611659570
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Core/Threading/UxrMonoDispatcher.cs
+  uploadId: 637431

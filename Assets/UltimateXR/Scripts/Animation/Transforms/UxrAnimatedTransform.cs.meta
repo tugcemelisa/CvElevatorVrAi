@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ce7d381cb12d2be46a9bd814aa9e52a5
+timeCreated: 1516185390
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Animation/Transforms/UxrAnimatedTransform.cs
+  uploadId: 637431

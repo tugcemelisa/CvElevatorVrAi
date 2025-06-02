@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ea02d2396df0e54782e5c10fc2dd96a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Devices/HpReverbG2/HpReverbG2Right_BRP.prefab
+  uploadId: 637431

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c50a02d1a6bc4a899ab98a4c34ea7d8a
+timeCreated: 1625058003
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Exceptions/NetUwrException.cs
+  uploadId: 637431

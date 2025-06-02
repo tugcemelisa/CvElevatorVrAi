@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7a64f8ffb3bd4e51b0f99a55e6a90f80
+timeCreated: 1667922130
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/Unity/Render/MeshExt.ExtractSubMeshOperation.cs
+  uploadId: 637431

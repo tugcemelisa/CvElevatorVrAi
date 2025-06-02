@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ac2be3bd90c7394ca8fb229a7bf533d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Internal/Hands/IK/SmallIKHandRight.prefab
+  uploadId: 637431

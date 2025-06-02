@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a6cff78ce55139e48a3e08257187ea94
+timeCreated: 1504781678
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Animation/GameObjects/UxrObjectBlink.cs
+  uploadId: 637431

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b1b03e4f01f42b4797ffbe40b98c623
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Art/Avatars/BigHands/HandPoses/ControllerWindowsMixedReality.asset
+  uploadId: 637431

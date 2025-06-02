@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 10c10bb84d1051443b90ee354b8934ee
+timeCreated: 1492442075
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Shaders/FX/PlanarReflection_URP.shader
+  uploadId: 637431

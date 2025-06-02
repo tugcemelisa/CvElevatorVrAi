@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 017000bce9b55cb4fb863cb85567a9d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/Teleport/TeleportRound01_BRP.prefab
+  uploadId: 637431

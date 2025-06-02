@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 560249778a60c154f809564f116abc27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Examples/FullScene/Art/CommonMaterials/Rubber/RubberBasicMat_URP_PBR.mat
+  uploadId: 637431

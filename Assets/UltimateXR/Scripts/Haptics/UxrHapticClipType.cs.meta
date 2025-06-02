@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d20a4fab19a74ba59fdbb8debbe98abb
+timeCreated: 1623748277
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Haptics/UxrHapticClipType.cs
+  uploadId: 637431

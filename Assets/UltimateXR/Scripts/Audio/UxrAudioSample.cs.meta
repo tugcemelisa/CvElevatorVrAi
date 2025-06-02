@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f4900625d54a768478b5a3fcd8c935ed
+timeCreated: 1539273697
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Audio/UxrAudioSample.cs
+  uploadId: 637431

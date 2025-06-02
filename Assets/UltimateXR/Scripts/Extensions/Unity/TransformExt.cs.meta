@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9df2443b80ae4a049d544d301516c88c
+timeCreated: 1623763053
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Scripts/Extensions/Unity/TransformExt.cs
+  uploadId: 637431

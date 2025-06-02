@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dde1cc2a360069149a781772e8410006
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236782
+  packageName: UltimateXR - Virtual Reality Framework and Toolkit
+  packageVersion: 0.9.7
+  assetPath: Assets/UltimateXR/Prefabs/HandIntegrations/SmallHandsIntegration.prefab
+  uploadId: 637431
