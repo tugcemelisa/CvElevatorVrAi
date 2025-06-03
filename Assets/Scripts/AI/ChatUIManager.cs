@@ -4,25 +4,46 @@ using UnityEngine.UI;
 
 public class ChatUIManager : MonoBehaviour
 {
-    public TMP_InputField userInputField; // Input field for user messages
-    public Button sendButton;  // Button to send the message
-    public ChatGPTManager chatGPTManager; // Reference to the ChatGPTManager script
-    public TextMeshProUGUI replyText; // Text element to display the response
+    [Header("UI References")]
+    public TMP_InputField userInputField;         
+    public Button sendButton;                     
+    public ChatGPTManager chatGPTManager;         
+    public TextMeshProUGUI replyText;             
+    public ScrollRect replyScrollRect;            
 
     void Start()
     {
-        sendButton.onClick.AddListener(SendMessageToGPT);
+        if (sendButton != null)
+        {
+            sendButton.onClick.AddListener(SendMessageToGPT);
+        }
     }
 
-    void SendMessageToGPT()
+    public void SendMessageToGPT()
     {
-        // Get the user input and start the coroutine to send the message
-        string message = userInputField.text;
-        StartCoroutine(chatGPTManager.SendChat(message, OnReply));
+        string message = userInputField.text.Trim();
+
+        if (!string.IsNullOrEmpty(message))
+        {
+            
+            replyText.text += $"\n<color=#86C5FF>You:</color> {message}";
+            userInputField.text = "";
+
+           
+            StartCoroutine(chatGPTManager.SendChat(message, OnReply));
+        }
     }
 
     void OnReply(string response)
     {
-        replyText.text = response;
+        
+        replyText.text += $"\n<color=#FFD580>AI:</color> {response}";
+
+        
+        Canvas.ForceUpdateCanvases();
+        if (replyScrollRect != null)
+        {
+            replyScrollRect.verticalNormalizedPosition = 0f;
+        }
     }
 }
