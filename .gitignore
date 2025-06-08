@@ -89,3 +89,7 @@ Assets/Resources/Config/openai_config.json
 
 # OpenAI API Key Config
 Assets/StreamingAssets/openai_config.json
+
+# OpenAI Google TTS API Key
+/Assets/Resources/Config/*.json
+
