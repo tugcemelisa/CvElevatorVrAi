@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - FloorObject
+  - Interactable
+  - Structure
   layers:
   - Default
   - TransparentFX
@@ -12,8 +15,8 @@ TagManager:
   - Overlay UI
   - Water
   - UI
-  - 
-  - 
+  - Interactables
+  - Environment
   - 
   - 
   - 
