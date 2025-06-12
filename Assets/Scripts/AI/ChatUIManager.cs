@@ -1,15 +1,16 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
+using System.Collections;
 
 public class ChatUIManager : MonoBehaviour
 {
     [Header("UI References")]
-    public TMP_InputField userInputField;         
-    public Button sendButton;                     
-    public ChatGPTManager chatGPTManager;         
-    public TextMeshProUGUI replyText;             
-    public ScrollRect replyScrollRect;            
+    public TMP_InputField userInputField;
+    public Button sendButton;
+    public ChatGPTManager chatGPTManager;
+    public TextMeshProUGUI replyText;
+    public ScrollRect replyScrollRect;
 
     void Start()
     {
@@ -36,11 +37,19 @@ public class ChatUIManager : MonoBehaviour
 
     void OnReply(string response)
     {
-        
-        replyText.text += $"\n<color=#FFD580>AI:</color> {response}";
+        if (replyText != null)
+        {
+            replyText.text += $"\n<color=#FFD580>AI:</color> {response}";
+        }
 
-        
+        StartCoroutine(ScrollToBottomSmoothly());
+    }
+
+    IEnumerator ScrollToBottomSmoothly()
+    {
+        yield return null; 
         Canvas.ForceUpdateCanvases();
+
         if (replyScrollRect != null)
         {
             replyScrollRect.verticalNormalizedPosition = 0f;
