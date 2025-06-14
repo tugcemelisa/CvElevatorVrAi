@@ -6,8 +6,8 @@ public class FloorButtonHandler : MonoBehaviour
     public ChatGPTManager chatGPTManager;
     public FloorManager floorManager;
     public TextMeshProUGUI currentFloorText;
-    public TMP_InputField questionInputField; // Otomatik soru yazılacak alan
-    public TextMeshProUGUI replyTextUI;       // ChatGPT cevabı buraya yazılacak
+    public TMP_InputField questionInputField; 
+    public TextMeshProUGUI replyTextUI;       
 
     private void DisplayQuestion(string floorName, string question)
     {

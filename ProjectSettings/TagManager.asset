@@ -8,6 +8,8 @@ TagManager:
   - FloorObject
   - Interactable
   - Structure
+  - PlayerHand
+  - Controller
   layers:
   - Default
   - TransparentFX
